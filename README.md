@@ -115,7 +115,7 @@ the user is responsible.
 **WhatsAsenaDuplicated** is the continue of **WhatsAsena**. We renewed repository about 5-6 months ago. So, **WhatsAsena** and **WhatsAsenaDuplicated** are the same.
 
 ## Setup
-### Very Simple Method
+### Very Simple Methodhttps://github.com/AFRAJ12345/WhatsAsenaDuplicated/edit/master/README.md
 `Soon as Possible...`
 
 ### Simple Method 
